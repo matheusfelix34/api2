@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Ruy",
+    "idade":3,
+    "descricao": "Fofo",
+    "contato": "71 8933-3408",
+    "especie": "CÃO",
+    "situacao": "disponivel"
+    
+  },
+  {
+    "nome": "Garfield",
+    "idade":13,
+    "descricao": "Devorador de lasanhas",
+    "contato": "71 8794-6591",
+    "especie": "GATO",
+    "situacao": "disponivel"
+  },
+  {
+    "nome": "Louro José",
+    "idade":15,
+    "descricao": "semideus",
+    "contato": "71 8854-6963",
+    "especie": "AVE",
+    "situacao": "disponivel"
+  }
+]
